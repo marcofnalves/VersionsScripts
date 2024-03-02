@@ -1,11 +1,11 @@
 Scripts = {}
 Scripts.Name = {
-  "MafanModules",
-  "MafanAnimations,
-  "MafanTextUI",
-  "MafanVip",
-  "MafanVRPAddon",
-  "MafanLeaderboard"
+  {"MafanModules"},
+  {"MafanAnimations},
+  {"MafanTextUI"},
+  {"MafanVip"},
+  {"MafanVRPAddon"},
+  {"MafanLeaderboard}"
 }
 
 Scripts.Version = {
